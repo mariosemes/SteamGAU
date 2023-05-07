@@ -1,0 +1,5 @@
+psutil~=5.9.5
+winshell~=0.6
+pypiwin32~=223
+pywin32~=306
+rich~=13.3.5
