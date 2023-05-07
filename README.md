@@ -1,3 +1,5 @@
+![Slikica](https://raw.githubusercontent.com/mariosemes/SteamGAU/main/assets/app_icon.png "Slikica")
+
 ### Yo, have you heard about SteamGAU? Of course not...
 ###### Short for SteamCMD Games Auto-Updater
 
